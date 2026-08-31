@@ -51,10 +51,6 @@ My personal portfolio website demonstrating full-stack capabilities.
 Machine Learning projects and coursework including various algorithms and models.
 [View Project](https://github.com/ngurahariwhrihaspati/MLdeveloper)
 
-### 📝 Notes App
-JavaScript-based note-taking application (Created with CodeSandbox).
-[View Project](https://github.com/ngurahariwhrihaspati/Notes-app)
-
 ## 🎓 Learning Path
 - Data Analysis & BI
 - Machine Learning & AI
