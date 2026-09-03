@@ -51,6 +51,13 @@ My personal portfolio website demonstrating full-stack capabilities.
 Machine Learning projects and coursework including various algorithms and models.
 [View Project](https://github.com/ngurahariwhrihaspati/MLdeveloper)
 
+### 📚 Express Local Library
+
+Local Library website built with Express, Pug and MongoDB — a classic catalog site (books, authors, genres). Live demo · View Project
+
+    Live demo: https://express-locallibrary-tutorial-production-f3c3.up.railway.app/catalog
+    Repo: https://github.com/ngurahariwhrihaspati/express-locallibrary-tutorial
+
 ## 🎓 Learning Path
 - Data Analysis & BI
 - Machine Learning & AI
