@@ -53,10 +53,8 @@ Machine Learning projects and coursework including various algorithms and models
 
 ### 📚 Express Local Library
 
-Local Library website built with Express, Pug and MongoDB — a classic catalog site (books, authors, genres). Live demo · View Project
-
-    Live demo: https://express-locallibrary-tutorial-production-f3c3.up.railway.app/catalog
-    Repo: https://github.com/ngurahariwhrihaspati/express-locallibrary-tutorial
+Local Library website built with Express, Pug and MongoDB — a classic catalog site (books, authors, genres). 
+[View Project](https://github.com/ngurahariwhrihaspati/express-locallibrary-tutorial) · [Live demo](https://express-locallibrary-tutorial-production-f3c3.up.railway.app/catalog)
 
 ## 🎓 Learning Path
 - Data Analysis & BI
